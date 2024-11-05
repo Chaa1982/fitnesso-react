@@ -3,5 +3,5 @@ body {
 }
 @font-face {
   font-family: 'Permanent Marker';
-  src: url('./accets/Permanent_Marker/PermanentMarker-Regular.ttf');
+  src: url('./accets/Permanent_Marker/PermanentMarker-Regular.ttf') format('ttf');
 }
