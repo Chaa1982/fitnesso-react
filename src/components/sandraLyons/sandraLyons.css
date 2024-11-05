@@ -1,0 +1,60 @@
+.sandraLyons {
+    min-width: 100%;
+    box-sizing: border-box;
+    padding: 68px 35px 150px;
+    color: #081158;
+    background-color: rgb(238, 240, 244);
+    display: flex;
+}
+.sandraLyons .left-side h2 {
+    font-size: 64px;
+    line-height: 70px;
+    font-family: 'Permanent Marker';
+    text-align: center;
+    color: rgb(142, 165, 160);
+    font-weight: 400;
+}
+.sandraLyons .left-side {
+    width: 50%;
+
+}
+.sandraLyons .right-side {
+    width: 50%;
+    padding: 118px 75px;
+}
+.sandraLyons .right-side .small-text {
+    font-size: 14px;
+    font-weight: 300;
+}
+.sandraLyons .right-side h2 {
+    font-size: 72px;
+    font-weight: 400;
+    width: 550px;
+    line-height: 80px;
+}
+.sandraLyons .long-text {
+    font-size: 20px;
+    font-weight: 300;
+    width: 496px;
+    line-height: 36px;
+}
+.sandraLyons button {
+    width: 173px;
+    height: 46px;
+    background-color: #081158;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+
+
+
+.sandraLyons .sandra-ing {
+    background-image: url('../../images/Sandra.jpeg');
+    width: 659px;
+    height: 700px;
+}

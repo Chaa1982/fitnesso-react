@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+}
+@font-face {
+  font-family: 'Permanent Marker';
+  src: url('./accets/Permanent_Marker/PermanentMarker-Regular.ttf');
+}
