@@ -9,7 +9,7 @@
 .header .img {
     width: 94px;
     height: 20px;
-    background: url('../../images/logo.png');
+    background: url('../../../public/images/logo.png');
     background-repeat: no-repeat;
 }
 menu {

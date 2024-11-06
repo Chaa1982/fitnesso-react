@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto-Regular';
+}
+.the-journey {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.the-journey h1 {
+    width: 703px;
+    text-align: center;
+    font-size: 62px;
+    line-height: 70.4px;
+    font-weight: 400;
+}
+.the-journey button {
+    width: 173px;
+    height: 46px;
+    background-color: #081158;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+.the-journey .greed-container {
+    padding: 100px 0 150px;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 200px;
+}
+.the-journey .greed-container .item {
+ background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.the-journey .greed-container .item p {
+    text-align: center;
+    max-width: 410px;
+    color: rgb(8, 17, 88);
+}
+.the-journey .greed-container .item p:nth-child(2n) {
+    font-size: 30px;
+    line-height: 33px;
+    font-family: 'Roboto-Regular';
+}
+.the-journey .greed-container .item p:nth-child(2n-1) {
+    font-size: 16px;
+    line-height: 29px;
+    font-family: 'Red Hat Text';
+}
+.the-journey .greed-container .item .img{
+    width: 300px;
+    height: 300px;
+}
+.the-journey .greed-container .item1 .img{
+   background-image: url('../../../public/images/jumpGirl.png');
+}
+.the-journey .greed-container .item2 .img{
+    background-image: url('../../../public/images/willMan.png');
+ }
+ .the-journey .greed-container .item3 .img{
+    background-image: url('../../../public/images/chemical.png');
+ }
+ .the-journey .greed-container .item4 .img{
+    background-image: url('../../../public/images/gumGirl.png');
+ }
+

@@ -1,3 +1,6 @@
+* {
+    font-family: 'Red Hat Text';
+}
 .sandraLyons {
     min-width: 100%;
     box-sizing: border-box;
@@ -9,7 +12,7 @@
 .sandraLyons .left-side h2 {
     font-size: 64px;
     line-height: 70px;
-    font-family: 'Permanent Marker' sans-serif;
+    font-family: 'Permanent Marker';
     text-align: center;
     color: rgb(142, 165, 160);
     font-weight: 400;
@@ -31,6 +34,8 @@
     font-weight: 400;
     width: 550px;
     line-height: 80px;
+    font-family: 'Roboto-Regular';
+    font-weight: 400;
 }
 .sandraLyons .long-text {
     font-size: 20px;
@@ -44,6 +49,7 @@
     background-color: #081158;
     color: #fff;
     font-size: 14px;
+    font-family: 'Roboto-Regular';
     font-weight: 400;
     text-transform: uppercase;
     border: 1px solid transparent;
@@ -54,7 +60,7 @@
 
 
 .sandraLyons .sandra-ing {
-    background-image: url('../../images/Sandra.jpeg');
+    background-image: url('../../../public/images/Sandra.jpeg');
     width: 659px;
     height: 700px;
 }

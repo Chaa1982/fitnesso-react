@@ -3,5 +3,13 @@ body {
 }
 @font-face {
   font-family: 'Permanent Marker';
-  src: url('./accets/Permanent_Marker/PermanentMarker-Regular.ttf') format('ttf');
+  src: url('./accets/Permanent_Marker/PermanentMarker-Regular.ttf');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  src: url(./accets/Red_Hat_Text/RedHatText-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('./accets/Roboto/Roboto-Regular.ttf');
 }
