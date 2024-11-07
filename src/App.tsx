@@ -5,6 +5,7 @@ import {SandraLyons} from './components/sandraLyons/SandraLyons';
 import {BlueSection} from "./components/blueSection/BlueSection";
 import { TheJourney } from './components/theJourney/TheJourney';
 import { FreeHome } from './components/freeHome/FreeHome';
+import { FreeHome2 } from './components/freeHome2/FreeHome2';
 
 function App() {
     return (
@@ -14,6 +15,7 @@ function App() {
             <BlueSection />
             <TheJourney />
             <FreeHome />
+            <FreeHome2 />
 
         </div>
     );

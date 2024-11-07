@@ -1,0 +1,93 @@
+.free-home2 {
+    background: url('../../../public/images/freeHome2-bg.png');
+    padding: 154px 36px 187px;
+}
+.free-home2 h1 {
+    max-width: 787px;
+    font-size: 86px;
+    font-weight: 400;
+    line-height: 99px;
+   color: rgb(255, 255, 255);
+}
+.free-home2 p {
+    max-width: 581px;
+    font-family: 'Red Hat Text';
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 36px;
+    color: rgb(255, 255, 255);
+}
+.free-home2 .items-wrapper {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+.free-home2 .items-wrapper .item {
+    background-color: #fff;
+}
+.free-home2 .items-wrapper .item .img {
+    width: 423px;
+    height: 400px;
+    background-size: 423px !important;
+}   
+.free-home2 .items-wrapper .description > div span:first-child {
+    font-family: 'Red Hat Text';
+    font-size: 14px;
+    line-height: 22.4px;
+}
+.free-home2 .items-wrapper .description > div span:last-child {
+    font-family: 'Permanent Marker';
+    font-size: 14px;
+    line-height: 22.4px;
+    color: rgb(236, 134, 117);
+}
+.free-home2 .items-wrapper .item1 .img {
+    background: url('../../../public/images/jumpGirl.png');
+    
+}
+.free-home2 .items-wrapper .item2 .img {
+    background: url('../../../public/images/pullMan.png');
+}
+.free-home2 .items-wrapper .item3 .img {
+    background: url('../../../public/images/pullMen.png');
+}
+.free-home2 .item .description {
+    padding: 30px 31px 30px 43px;
+}
+.free-home2 .item .description > div {
+    display: flex;
+    justify-content: space-between;
+}
+.free-home2 .items-wrapper .description p:nth-child(2n) {
+    font-size: 24px;
+    line-height: 27.5px;
+    letter-spacing: .5px;
+    color: rgb(8, 17, 88);
+}
+.free-home2 .items-wrapper .description p:nth-child(2n-1) {
+    margin-left: 13px;
+    font-size: 14px;
+    line-height: 22.4px;
+    letter-spacing: .5;
+    color: rgb(8, 17, 88);
+}
+.free-home2 .price-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.free-home2 .price-wrapper span:nth-child(2n-1) {
+   font-size: 15px;
+   font-weight: 400; 
+   line-height: 17.6px;
+   letter-spacing: 1px;
+   color:rgb(236, 134, 117);
+}
+.free-home2 .price-wrapper span:nth-child(2n) {
+    margin-left: 15px !important;
+    font-size: 11px !important;
+    font-weight: 400;
+    line-height: 13.2px !important;
+    color: rgb(175, 175, 175) !important;
+}
