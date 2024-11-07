@@ -1,0 +1,41 @@
+.benefit {
+    width: 100%;
+    margin: 250px 36px 150px;
+    display: flex;
+}
+.benefit .description-wrap,
+.benefit .photo-wrap {
+    width: 50%;
+}
+.benefit .description-wrap h1 {
+    max-width: 523px;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 70.4px;
+}
+.benefit .description-wrap p {
+    max-width: 486px;
+    font-family: 'Red Hat Text';
+    font-size: 20px;
+    line-height: 36px;
+}
+.benefit .description-wrap button {
+    width: 173px;
+    height: 46px;
+    background-color: #081158;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Roboto-Regular';
+    font-weight: 400;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+.benefit .photo-wrap {
+    margin-left: 100px;
+    width: 507px;
+    background: url('../../../public/images/benefit.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
