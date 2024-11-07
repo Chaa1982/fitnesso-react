@@ -1,0 +1,12 @@
+.sweat {
+    background: url('../../../public/images/sweat.png');
+    padding: 234px 425px 255px 426px;
+}
+.sweat h1 {
+    font-family: 'Permanent Marker';
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 70.4px;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+}

@@ -1,5 +1,7 @@
 .free-home2 {
     background: url('../../../public/images/freeHome2-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 154px 36px 187px;
 }
 .free-home2 h1 {
