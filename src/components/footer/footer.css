@@ -1,6 +1,6 @@
 .footer {
     box-sizing: border-box;
-    padding: 100px 36px 179px;
+    padding: 100px 36px 100px;
     display: flex;
     flex-direction: column;
     background-color: #081158;
