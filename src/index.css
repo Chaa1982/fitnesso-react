@@ -7,7 +7,7 @@ body {
 }
 @font-face {
   font-family: 'Red Hat Text';
-  src: url(./accets/Red_Hat_Text/RedHatText-VariableFont_wght.ttf);
+  src: url('./accets/Red_Hat_Text/RedHatText-VariableFont_wght.ttf');
 }
 @font-face {
   font-family: 'Roboto-Regular';

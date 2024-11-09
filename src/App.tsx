@@ -9,6 +9,8 @@ import { FreeHome2 } from './components/freeHome2/FreeHome2';
 import { Sweat } from './components/sweat/Sweat';
 import { Benefit } from './components/benefit/Benefit';
 import { Water } from './components/water/Water';
+import { ReadOur } from './components/readOur/ReadOur';
+import { Footer } from './components/footer/Footer';
 
 function App() {
     return (
@@ -22,6 +24,9 @@ function App() {
             <Sweat />
             <Benefit />
             <Water />
+            <ReadOur />
+            <Footer />
+
 
         </div>
     );

@@ -1,0 +1,65 @@
+.footer {
+    box-sizing: border-box;
+    padding: 100px 36px 179px;
+    display: flex;
+    flex-direction: column;
+    background-color: #081158;
+    
+}
+.footer .first-floor {
+    display: flex;
+    gap: 185px;
+    
+}
+.footer .first-floor .img {
+    margin-right: 147px;
+    background-image: url('../../../public/images/logo-white.png');
+    background-repeat: no-repeat;
+    width: 141px;
+    height: 30px;
+    color: #fff;
+}
+.footer .first-floor li {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+}
+.footer .first-floor .title {
+    text-transform: uppercase;
+    font-family: 'Red Hat Text';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22.4px;
+    margin-bottom: 15px;
+}
+.footer .first-floor .email {
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 48px;
+}
+.second-floor {
+    margin-top: 50px;
+    display: flex;
+    gap: 65px;
+}
+.footer .second-floor .small-logo {
+    width: 45px;
+    height: 29px;
+}
+.footer .second-floor .small-logo1 {
+    background-image: url('../../../public/images/smalle-logo1.png');
+}
+.footer .second-floor .small-logo2 {
+    background-image: url('../../../public/images/smalle-logo2.png');  
+}
+.footer .second-floor .small-logo3 {
+        background-image: url('../../../public/images/smalle-logo3.png');
+}
+.footer .second-floor .small-logo4 {
+    background-image: url('../../../public/images/smalle-logo4.png');
+}
+.footer .second-floor .small-logo5 {
+    background-image: url('../../../public/images/smalle-logo5.png');
+}

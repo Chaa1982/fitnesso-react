@@ -1,0 +1,64 @@
+* {
+    color: rgb(8, 17, 88);
+    font-family: 'Roboto-Regular';
+    
+}
+.read-our {
+    padding: 150px 36px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.read-our h1 {
+   font-size: 61px; 
+   max-width: 647px;
+   font-weight: 400;
+   line-height: 70.4px;
+   text-align: center;
+}
+.read-our > p {
+    max-width: 775px;
+    font-family: 'Red Hat Text';
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 36px;
+    text-align: center;
+}
+.read-our button {
+    width: 173px;
+    height: 46px;
+    background-color: #081158;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Roboto-Regular';
+    font-weight: 400;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+.read-our .items-wrapper {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+.read-our .items-wrapper .item {
+    background-color: #fff;
+}
+.read-our .items-wrapper .item .img {
+    width: 423px;
+    height: 600px;
+}   
+
+.read-our .items-wrapper .item1 .img {
+    background: url('../../../public/images/brusMan.png');
+}
+.read-our .items-wrapper .item2 .img {
+    background: url('../../../public/images/eggs.png');
+}
+.read-our .items-wrapper .item3 .img {
+    background: url('../../../public/images/happySmile.png');
+}
